@@ -1,0 +1,6 @@
+The both of the .ipynb files were used for the report. 
+Thus, some of the experiments were carried out multiple times, 
+that is why, in order to keep all the results, records and graphs, 
+all the jupyter notebooks were submitted.
+
+Thanks in advance!
